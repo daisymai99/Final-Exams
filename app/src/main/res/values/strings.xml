@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="btnContinue">Tiếp tục</string>
+    <string name="sign_up">Đăng ký làm thành viên</string>
+    <string name="edtNumber">Nhập số điện thoại</string>
+
+</resources>
